@@ -1,0 +1,4 @@
+git config --global user.email "My mail ID"
+git config --global user.name "Git account name"
+git remote add origin git@github.com:Sunil23011987/Repo.git
+git push -u origin master
